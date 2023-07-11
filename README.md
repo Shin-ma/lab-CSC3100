@@ -1,5 +1,6 @@
 # lab-CSC3100
-these are code that I'd done during my first semester as a Software Engineering's student
+Basic Programming
+These are codes that I'd done during my first semester as a Software Engineering's student
 each files is the answer for one specific question
 lab 1 is more to introductin
 lab 2 and 3 are about problem solving
